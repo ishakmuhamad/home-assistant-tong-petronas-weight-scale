@@ -62,3 +62,15 @@ https://shopee.com.my/1M-2M-2.5M-3M-DS18B20-Waterproof-Temperature-Temp-Sensor-D
           - entity: sensor.stats_dapurkiri
         title: gaspetronas
 
+# References
+1. Building a bed occupancy sensor for Home Assistant
+
+https://everythingsmarthome.co.uk/building-a-bed-occupancy-sensor-for-home-assistant/?fbclid=IwAR0WeUXlgkAMa_q5WUUfeYlAb3Ml1X4fnHhHRwAMX6VZCuKC6bAkBWexLq8
+
+2. Measure Propane, CO2, Salt, and so much more with this DIY MQTT Weight Sensor using Tasmota
+
+https://www.thesmarthomehookup.com/diy-weight/?fbclid=IwAR2Mbtf7MhSrRkxYHYo8gb3rr5fMSEI-YQkKzr4_YyJPjMiB0ey7T466T7w
+
+3. markusressel ESPHome-Smart-Scale
+
+https://github.com/markusressel/ESPHome-Smart-Scale?fbclid=IwAR3GlpHknn79m6mIvBI3P59OpnZbeBbBWcwsBaEeW_b8cO2CkI4seYPRFuU
