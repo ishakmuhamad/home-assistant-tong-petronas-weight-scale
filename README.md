@@ -7,23 +7,22 @@ nodemcu + hx711 + 150kg load cell + ds18b20
 # Component
 ![image](https://user-images.githubusercontent.com/63136346/234551543-9d91a1eb-098c-44b9-a607-453c5fc50a25.png)
 
-1. nodemcu - rm9
+1. nodemcu - rm20
 
-https://shopee.com.my/Wireless-module-CH340-CH340G-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-i.110910897.5306533860
+https://shopee.com.my/NodeMCU-Lua-V3-ESP8266-WIFI-with-CH340G-i.67321722.1369676742?sp_atk=a8bc2a60-ed80-477d-9139-b589a10a7ea9&xptdk=a8bc2a60-ed80-477d-9139-b589a10a7ea9
 
 2. 150kg load cell - rm33
 
 https://shopee.com.my/150KG-180KG-200kg-220KG-electronic-platform-scale-load-cell-pressure-balanced-cantilever-load-i.37988701.18725023887
 ![image](https://user-images.githubusercontent.com/63136346/234546371-478ccb44-5652-40d2-93b7-9651d2b56cd1.png)
 
-3. Hx711 - rm3
+3. Hx711 - rm6.50
 
-https://shopee.com.my/Mini-HX711-Weighing-Sensor-Dual-Channel-24-Bit-Precision-A-D-Module-Pressure-Sensor-Microcontroller-i.550994225.10092304576
+https://shopee.com.my/Load-Cell-Straight-Bar-5kg-1kg-50KG-Weight-Sensor-HX711-module-i.67321722.1170398438?sp_atk=65958100-10b0-4461-ac4f-d4a93a468e1a&xptdk=65958100-10b0-4461-ac4f-d4a93a468e1a
 
-3. ds18b20 - rm5 x 2
+3. ds18b20 - rm7 x 2
 
-https://shopee.com.my/1M-2M-2.5M-3M-DS18B20-Waterproof-Temperature-Temp-Sensor-Digital-Thermal-Probe-for-arduino-Controller-i.175472467.2839363796
-
+https://shopee.com.my/Arduino-Water-Proof-DS18b20-Temperature-Sensor-Probe-i.67321722.1170224467?sp_atk=c74cc895-954b-4821-be3a-3ea9d2e6717b&xptdk=c74cc895-954b-4821-be3a-3ea9d2e6717b
 # Setup
 
 # 1. EspHome
